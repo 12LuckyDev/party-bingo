@@ -14,6 +14,11 @@
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "moduleResolution": "bundler",
+    "paths": {
+      "party-bingo-lib": [
+        "./dist/party-bingo-lib"
+      ]
+    },
     "importHelpers": true,
     "target": "ES2022",
     "module": "ES2022"
